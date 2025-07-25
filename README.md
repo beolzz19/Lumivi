@@ -24,7 +24,7 @@
 ### 📫 Onde me encontrar:
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:beolzz19@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/beolzz19)  
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://instagram.com/beolzz19)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://instagram.com/b4rb.lima)
 
 ---
 
