@@ -21,6 +21,14 @@
 
 ---
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 📫 Onde me encontrar:
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:beolzz19@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/beolzz19)  
